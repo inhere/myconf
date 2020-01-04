@@ -50,7 +50,7 @@ curl https://raw.githubusercontent.com/inhere/conf/master/my.gitconfig >> ~/.git
 Install:
 
 ```bash
-curl https://raw.githubusercontent.com/inhere/conf/master/my.gitconfig >> ~/.tmux.conf
+curl https://raw.githubusercontent.com/inhere/conf/master/tmux.conf >> ~/.tmux.conf
 ```
 
 **稍丰富的配置**
