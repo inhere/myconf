@@ -5,9 +5,9 @@
         br = branch
         st = status
         pul = pull
-[user]
-        name = inhere
-        email = in.798@qq.com
+#[user]
+#        name = inhere
+#        email = in.798@qq.com
 [push]
         default = simple
 [core]
