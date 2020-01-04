@@ -1,4 +1,4 @@
-# conf
+# Config
 
 我的一些工具配置
 
@@ -84,6 +84,22 @@ ln -s $PWD/k-tmux/tmux.conf ~/.tmux.conf
 - https://github.com/tmux-plugins/tmux-continuum 自动保存会话信息，重启后恢复tmux之前的会话设置
 
 
+## Vim 配置
+
+- https://github.com/wklken/k-vim
+
+### 简洁版配置
+
+简洁版配置适用于服务器环境
+
+- https://github.com/wklken/vim-for-server
+
+Install:
+
+```bash
+cp ~/.vimrc ~/.vimrc_bak
+curl https://raw.githubusercontent.com/wklken/vim-for-server/master/vimrc > ~/.vimrc
+```
 
 
 
