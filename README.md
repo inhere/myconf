@@ -2,10 +2,28 @@
 
 我的一些工具配置
 
-- bash
+- shell(bash/zsh)
 - git
 - tmux
 - vim
+
+## Shell 配置
+
+主要是一些常用别名，方法
+
+Install:
+
+```bash
+curl https://raw.githubusercontent.com/inhere/conf/master/shell-scripts.sh >> ~/.my-scripts.sh
+```
+
+Edit `.bashrc` or `.zshrc`: 
+
+```bash
+source $HOME/.my-scripts.sh
+```
+
+Or use: `echo >> source $HOME/.my-scripts.sh`
 
 ## Git 配置
 
