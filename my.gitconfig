@@ -1,0 +1,18 @@
+# my git config. at  ~/.gitconfig
+[alias]
+        co = checkout
+        ci = commit
+        br = branch
+        st = status
+        pul = pull
+[user]
+        name = inhere
+        email = in.798@qq.com
+[push]
+        default = simple
+[core]
+        filemode = false
+        autocrlf = input
+        ignorecase = false
+[credential]
+        helper = cache
