@@ -1,13 +1,15 @@
-# my git config. at  ~/.gitconfig
+#
+# My git config. at  ~/.gitconfig
+#
+# @link https://github.com/inhere/conf
+#
+
 [alias]
         co = checkout
         ci = commit
         br = branch
         st = status
         pul = pull
-#[user]
-#        name = inhere
-#        email = in.798@qq.com
 [push]
         default = simple
 [core]
