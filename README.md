@@ -59,6 +59,8 @@ Tmux 1.x:
 curl https://raw.githubusercontent.com/inhere/conf/master/tmux1.conf >> ~/.tmux.conf
 ```
 
+> 重新载入配置 `tmux source ~/.tmux.conf`
+
 **稍丰富的配置**
 
 Direact usage:
