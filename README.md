@@ -53,6 +53,12 @@ Install:
 curl https://raw.githubusercontent.com/inhere/conf/master/tmux.conf >> ~/.tmux.conf
 ```
 
+Tmux 1.x:
+
+```bash
+curl https://raw.githubusercontent.com/inhere/conf/master/tmux1.conf >> ~/.tmux.conf
+```
+
 **稍丰富的配置**
 
 Direact usage:
